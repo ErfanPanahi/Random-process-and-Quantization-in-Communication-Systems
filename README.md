@@ -16,7 +16,7 @@ The completed sections of the project are as follows: (CA4_Matlab_810198369.mlx)
 ![image](https://github.com/ErfanPanahi/Statistics-Random-process-and-Quantization-in-Communication-Systems/assets/107314081/c52fd54e-3b5d-4c4f-a73e-29242a282f27)
 ![image](https://github.com/ErfanPanahi/Statistics-Random-process-and-Quantization-in-Communication-Systems/assets/107314081/63ad008f-c9e4-4c04-8269-ccccff0a4271)
 
-***3-b. Application of quantization.***
+***3-b. Quantization Level Implementation.***
 
 ![image](https://github.com/ErfanPanahi/Statistics-Random-process-and-Quantization-in-Communication-Systems/assets/107314081/31a69859-88ba-4ea0-9ed1-dc3a0e35bbef)
 
