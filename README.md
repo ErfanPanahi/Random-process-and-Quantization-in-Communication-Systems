@@ -1,9 +1,11 @@
 # Statistics-Random-process-and-Quantization-in-Communication-Systems
 In this repository, we intend to become familiar with concepts of quantization, distribution functions between correlated and uncorrelated variables, as well as random processes, over the course of a series of processes, through conceptual questions and more advanced simulations.
 
+***(Attached files has been deleted temporary.)***
+
 *The purpose of performing this exercise is to review engineering statistics and probability, study stationary random processes (WSS), and pulse modulation. At the beginning of the work and in the first section, we will have a brief overview of normal random variables, conditional probabilities, and correlations. In the second section, we will examine stationary random processes and plot their autocorrelation function in two dimensions to demonstrate their independence from time. Finally, in the concluding section, we will also become familiar with pulse modulation and attempt to implement a digital transmitter and receiver with decoding in the presence of noise.*
 
-The completed sections of the project are as follows: (CA4_Matlab_810198369.mlx)
+The completed sections of the project are as follows: (CA4_Matlab_810198369.mlx) 
 
 **1- Probability and Statistics**
 
